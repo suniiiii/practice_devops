@@ -1,1 +1,5 @@
-Developer 1's change
+<<<<<<< HEAD
+Developer 2's change
+=======
+Developer 2's change
+>>>>>>> dev2_branch
